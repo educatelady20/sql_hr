@@ -1,0 +1,57 @@
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33922, 'Renee', 'Bryant', 'Secretary', 49750, 37270, 10)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33923, 'Rayna', 'Kennedy', 'Subject Matter Expert', 39420, 37270, 2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33974,'Prateek','Patel','Service Supervisor',41555,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33970,'Jessica','Jackson','Service Supervisor',84568,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33929,'Tiwanna','Wallace','Service Supervisor',90852,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33926,'Tyesha','Palmore','Service Supervisor',50852,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33925,'Tania','Mitchell','Service Supervisor',60852,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33924,'Ronne','Fraser','Service Supervisor',67852,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (33989,'Mary','Willis','Service Supervisor',77852,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37271,'Shamsi','Rategh','Service Supervisor Lead',105658,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37273,'Gracie','Monroe','Call Center Manager',115658,37270,2)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37272,'Carmen','James','Senior Operations Processor',85658,37270,3)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37274,'Kathleen','Lawrence','Junior Operations Processor',75658,37270,3)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37275,'Shauna','Hillard','Consumer Document Review',65658,37270,3)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37276,'MaCody','Richardson','Consumer Document Review Supervisor',62658,37270,3)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37277,'Chris','Naylor','Call Center Change Agent',42658,37270,3)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37278,'Lyndsay','Mitchell','Call Center Change Agent',41658,37270,3)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37279,'Tanasha','Renee','Learning & Development Analyst',71658,37270,5)
+
+INSERT INTO employees (employee_id, first_name, last_name, job_title, salary, reports_to, office_id)
+VALUES (37280,'Renee','Bryant','Learning & Development Analyst II',71658,37270,5)
+
